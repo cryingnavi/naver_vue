@@ -14,7 +14,7 @@
 3. npm run start
 
 ## 프로젝트 소개
-vue.js와 vuex를 사용했습니다.
+vue.js와 vuex를 사용했습니다. angular 1.x를 사용한 프로젝트는 [여기](https://github.com/cryingnavi/naver_angular)에서 확인할 수 있습니다.
 
 서버는 node와 express.js로 구현했습니다. express.js는 REST API를 통신을 위한 용도와 webpack 플러그인들을 이용한 라이브 리로드 역할도 수행해 줍니다. 별도의 인증 모듈과 디비는 사용하지 않았습니다. 모든 데이터는 메모리에 올렸으며, 서버를 재시작할 경우 초기화 되도록 되어 있습니다.
 
