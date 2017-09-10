@@ -1,14 +1,14 @@
-- 서버 환경
+## 서버 환경
 1. node.js - v6.11.1
 2. express.js - v4.14.1
 
-- 클라이언트 환경
+## 클라이언트 환경
 1. vue.js - v2.3.3
 2. vue-router - v2.7.0
 3. bootstrap - v4.0.0-beta
 4. webpack - v2.6.1
 
-- 구동하기
+## 구동하기
 1. npm install
 2. npm run build
 3. npm run start
