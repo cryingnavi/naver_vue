@@ -9,6 +9,7 @@
 4. webpack - v2.6.1
 
 ## 구동하기
+0. npm install -g webpack
 1. npm install
 2. npm run build
 3. npm run start
